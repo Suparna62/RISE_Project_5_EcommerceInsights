@@ -1,0 +1,11 @@
+OrderID,UserID,Product,Quantity,OrderTime,Rating
+1,U001,Phone,1,10:00,4
+2,U002,Laptop,1,14:00,5
+3,U003,Phone,2,16:00,3
+4,U001,Headphones,1,18:00,4
+5,U004,Laptop,1,20:00,5
+6,U002,Charger,3,10:00,2
+7,U005,Phone,1,22:00,3
+8,U003,Laptop,1,16:00,4
+9,U006,Phone,1,12:00,5
+10,U007,Headphones,1,10:00,3
